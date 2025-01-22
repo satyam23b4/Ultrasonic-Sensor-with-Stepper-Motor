@@ -35,7 +35,7 @@ This project demonstrates the use of the LPC1768 microcontroller to interface wi
 
 2. **Clone this repository:**
    ```sh
-   git clone https://github.com/your-username/embedded-systems-ultrasonic-sensor.git
+   git clone https://github.com/satyam23b4/ultrasonic-sensor-with-stepper-motor.git
    cd embedded-systems-ultrasonic-sensor
 3. **Open the project in Keil uVision:**
    - Load the provided project files into Keil uVision.
