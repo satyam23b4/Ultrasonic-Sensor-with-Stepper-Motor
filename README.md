@@ -61,5 +61,3 @@ This project demonstrates the use of the LPC1768 microcontroller to interface wi
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Feel free to contribute to this project by submitting issues or pull requests. For any questions or support, please contact [ucannotdefeattesla@gmail.com](mailto:ucannotdefeattesla@gmail.com).
-
